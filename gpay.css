@@ -52,5 +52,67 @@ footer{
     float: right;
     font-size: larger;
     margin-right: 5%;
+    display: block;
 
+}
+#bag{
+   
+    
+    float: right;
+    margin-top: 10px;
+    border: 1px solid;
+    bgcolor: gray;
+    margin-right: 10px;
+   padding: 3px 10px;
+}
+h4{
+    margin-top: 10px;
+}
+h6{
+     border-radius: 7px;
+    width: fit-content;
+    text-align: center;
+    margin-left: 45%;
+    border: 1px solid black;
+    margin-top: 5%;
+    color: rgb(10, 10, 172);
+    font-size: large;
+    height: max-content; 
+    height: 34px;
+    width: 130px;
+    padding: 4px;
+
+}
+
+#footer{
+    float: left;
+    margin-left: 15px;
+}
+h5{
+    border-radius: 5px;
+    border:1px solid black;
+    width: fit-content;
+    width: 101px;
+    color: blue;
+    margin-left: 40%;
+    width: 14%;
+    text-align: center;
+}
+
+.paddingForTv{
+    padding: 0px 15px;
+}
+.mainTableForIconBottom{
+    margin-left: 30%;
+}
+.alpha{
+    background-color: rgb(1, 1, 11);
+    color: white;
+    padding: 7px;
+    border-radius: 50%;
+    font-size: 17px;
+
+}
+.mainIconParentDiv{
+    padding: 0px 15px;
 }
