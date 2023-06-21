@@ -1,0 +1,56 @@
+input[type="search"]{
+    width: 100%;
+    padding: 9px;
+    border-radius: 18px;
+    margin-top: 60px;
+    margin-left: 40px;
+    text-indent: 317px;
+    box-shadow: 10px 9px gray;
+}
+#logo{
+    vertical-align: middle;
+    border-style: none;
+    border-radius: 269%;
+    height: 56px;
+    margin-top: 47px;
+    margin-left: 217px;
+}
+#bgimg{
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 42px;
+}
+p{
+    margin-left: 614px;
+    border: 2px 1px solid;
+    border-block-color: black;
+    background-color: #eeebeb;
+    width: fit-content;
+    margin-top: 24px;
+    border-radius: 69px;
+
+}
+.iconStyle{
+    font-size: 40px;
+    padding: 15px 20px;
+    margin: auto;
+}
+.mainTableForIcon
+{
+    margin-left: 40%;
+}
+.iconName{
+    width: fit-content;
+    display: block;
+}
+span{
+    display: block;
+    text-align: center;
+}
+footer{
+    float: right;
+    font-size: larger;
+    margin-right: 5%;
+
+}
